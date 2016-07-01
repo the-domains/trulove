@@ -1,0 +1,28 @@
+name: TruLove
+favicon: null
+layout_spectrum: 0.9762905084062368
+typography_spectrum: 0.5349839988630265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8343960230704397
+  lightness: 0.03847510367631912
+  saturation: 0.796913345111534
+  rhythmicContrast: 0.21706902282312512
+purpose: []
